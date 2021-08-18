@@ -19,8 +19,9 @@ The program starts Monday, August 2, and lasts four weeks. It's designed for peo
 - Elective workshops by Google's Developer Expert Data Science Program
 - Invitation to a beginner-friendly, invite-only Kaggle competition
 - Competition prizes (Kaggle Swag for top 10 teams on leaderboard)
+- 
 
-### Day01 : Titanic Disaster - IPython Notebook Submission
+#### Day01 🗓 : Titanic Disaster⛴🧊 - IPython Notebook Submission - ✅
 
 ---
 
@@ -30,7 +31,7 @@ Getting started with world famous Titanic disaster, machine learning model. In t
 
 | Day📆 | Task                  | Code Link 🔗                             |
 | ----- | --------------------- | ---------------------------------------- |
-| 01    | Titanic-Random Forest | [Day_01_Link](!#TO_BE_ADDED_COMMIT_NEXT) |
+| 01    | Titanic-Random Forest | [Day_01_Link](https://github.com/melan96/KaggleML-IPythonBooks-/tree/main/1-Day-TitanicCompetition-RandomForest-ModelDevelopment) |
 
 ## Want to Stay Updated about the Program!!
 
