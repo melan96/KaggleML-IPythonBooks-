@@ -45,10 +45,6 @@ We'll start with a brief overview of Python syntax, variable assignment, and ari
 
 #
 
-#
-
-#
-
 ```python
 spam_amount = 0
 print(spam_amount)
@@ -63,12 +59,36 @@ viking_song = "Spam " * spam_amount
 print(viking_song)
 ```
 
+#### Day03 🗓 : Python Course🐍💻 - Getting help with Python `help()` function - ✅
+
+---
+
+Python help() function is used to get the documentation of specified module, class, function, variables etc. This method is generally used with python interpreter console to get details about python objects.
+
+```python
+help([object])
+
+```
+
+```
+>>> help('builtins.globals')
+
+Help on built-in function globals in builtins:
+
+builtins.globals = globals()
+    Return the dictionary containing the current scope's global variables.
+
+    NOTE: Updates to this dictionary *will* affect name lookups in the current global scope and vice-versa.
+
+```
+
 ## 📌 Table of Content
 
-| Day📆 | Task                          | Code Link 🔗                                                                                                                      |
-| ----- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 01    | Titanic-Random Forest         | [Day_01_Link](https://github.com/melan96/KaggleML-IPythonBooks-/tree/main/1-Day-TitanicCompetition-RandomForest-ModelDevelopment) |
-| 02    | Python-course. [Hello Python] | [Day_02_Link](https://github.com/melan96/KaggleML-IPythonBooks-/tree/main/2-Day-PythonIntroduction-variables-and-syntaxes)        |
+| Day📆 | Task                                      | Code Link 🔗                                                                                                                      |
+| ----- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 01    | Titanic-Random Forest                     | [Day_01_Link](https://github.com/melan96/KaggleML-IPythonBooks-/tree/main/1-Day-TitanicCompetition-RandomForest-ModelDevelopment) |
+| 02    | Python-course. [Hello Python]             | [Day_02_Link](https://github.com/melan96/KaggleML-IPythonBooks-/tree/main/2-Day-PythonIntroduction-variables-and-syntaxes)        |
+| 03    | Python-course. [Getting Help with Python] | [Day_03_Link](https://github.com/melan96/KaggleML-IPythonBooks-/tree/main/2-Day-PythonIntroduction-variables-and-syntaxes)        |
 
 ## Want to Stay Updated about the Program!!
 
